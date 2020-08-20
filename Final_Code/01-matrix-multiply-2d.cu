@@ -1,6 +1,4 @@
-//Yuzhe Shang_Part 1
-//13:40/04/09/2020
-//ECE 350/450 Accelerated Computing for Deep Learning
+//Accelerated Computing for Deep Learning
 #include <stdio.h>
 
 #define N  64
