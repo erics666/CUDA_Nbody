@@ -1,2 +1,2 @@
-# CUDA-C-C-
-Accelerated Computing with CUDA C/C++
+# CUDA_C/C++
+# Accelerated Computing with CUDA C/C++
