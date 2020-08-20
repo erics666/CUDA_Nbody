@@ -1,8 +1,8 @@
 # CUDA C/C++ (Accelerated Computing with CUDA C/C++)
-============================================================================
+-------------------------------------------------------------------------------------------
 
 <br>
-      “Fundamentals of Accelerated Computing C/C++” by NVIDIA
+            “Fundamentals of Accelerated Computing C/C++” by NVIDIA
 
 
 
