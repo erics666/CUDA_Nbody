@@ -2,9 +2,7 @@
 
 #define N 2048 * 2048 // Number of elements in each vector
 
-/* Yuzhe Shang 18:59/04/06/2020 
- * Part2 final exercise
- * ECE 350/450 Accelerated Computing for Deep Learning
+/* Accelerated Computing for Deep Learning
  *
  * Optimize this already-accelerated codebase.
  *
