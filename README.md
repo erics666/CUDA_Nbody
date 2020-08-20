@@ -4,9 +4,9 @@
 <br>
             “Fundamentals of Accelerated Computing C/C++” by NVIDIA
 
-
-
-
+<br>
+<br>
+<br>
 <br>
             1. “Accelerating Applications with CUDA C/C++”
 <br>
