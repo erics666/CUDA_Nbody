@@ -1,6 +1,4 @@
-//Yuzhe Shang_Final Exercise_2<<15
-//19:34/04/08/2020
-//ECE 350/450 Accelerated Computing for Deep Learning
+//Accelerated Computing for Deep Learning
 
 #include <math.h>
 #include <stdio.h>
